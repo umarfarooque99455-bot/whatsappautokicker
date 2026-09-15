@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "WhatsApp Group Anti-Abuse Bot",
-  "version": "1.0",
-  "description": "ग्रुप में गाली देने वालों को पहली बार वार्निंग और दूसरी बार ऑटो-किक करता है।",
+  "name": "WhatsApp Anti Abuse Bot",
+  "version": "1.1",
+  "description": "ग्रुप में गाली देने वालों को पहली बार चेतावनी और दूसरी बार ग्रुप से बाहर निकालता है।",
   "permissions": ["storage"],
   "action": {
     "default_popup": "popup.html"
